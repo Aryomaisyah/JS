@@ -1,4 +1,6 @@
-ALPjsEvolution (Credit By:@wN)
+# SEMUA AKAN MATI PADA WAKTUNYA
+
+ALPjsEvolution (Credit)
 --------
 
 -Login QR + 5 Fungsi Terpisah
@@ -18,12 +20,15 @@ CARA INSTALL SAMA SEPERTI ALPHATjs LAINYA
 ---------------
 
 Thx to :
+# ALLAH SWT
+@RAfamily
 @Alfadirk
 @Tim TCR
 @NadyaTJ
 @Googlex
 @EtotJs
-DLL
+
 
 NB:GUNAKAN DENGAN BIJAK,, & TIDAK DI PERJUAL BELIKAN..!
 
+# SEMUA AKAN MATI PADA WAKTUNYA
