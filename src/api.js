@@ -59,7 +59,7 @@ class LineAPI {
   }) {
  //   options.headers['X-Line-Application'] = 'IOSIPAD\x097.14.0\x09iPhone_OS\x0910.12.0';
   //    options.headers['X-Line-Application'] = 'CHROMEOS\x091.4.13\x09Chrome_OS\x091';
-      options.headers['X-Line-Application'] = 'CHROMEOS\t2.1.0\tChrome_OS\t1';  
+      options.headers['X-Line-Application'] = 'CHROMEOS\t2.1.5\tPH-13\t1';  
 //    options.headers['X-Line-Application'] = 'DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0';
 //    options.headers['X-Line-Application'] = 'DESKTOPMAC\t5.3.3-YOSEMITE-x64\tMAC\t10.12.0';
 //    options.headers['X-Line-Application'] = 'DESKTOPWIN\t5.1.2\tMFR-BOT\t5.1.2600-MFRLORDBOT-x64';
@@ -127,7 +127,7 @@ class LineAPI {
                 this.options.headers['X-Line-Access'] = config.tokenn;
                 this.options.path = this.config.LINE_COMMAND_PATH;
                 this.setTHttpClient(this.options);
-			    this.options.headers['User-Agent'] = 'Line/8.8.0';
+			    this.options.headers['User-Agent'] = 'Line/2.1.5';
 			    this.axz = true;
 			    this.setTHttpClient(this.options);
 			    this.axz = false;
