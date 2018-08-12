@@ -10,7 +10,7 @@ const { Message, OpType, Location } = require('../curve-thrift/line_types');
 
 
 
-const myBot = ['u35a1aa2a15a9fa18452c6845312874f8','uc301fa8f0962f52b1f2d83dc251589cb'];//TARO MID LU DISINI
+const myBot = ['u9f478c580a9c4e1de5e407e9b10c2da1','u31d8aba9dff04c75242f2a2097b8adae'];//TARO MID LU DISINI
 var vx = {};var midnornama = "";var pesane = "";var kickhim = "";var waitMsg = "no";//DO NOT CHANGE THIS
 
 
