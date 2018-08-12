@@ -8,7 +8,7 @@ const config = require('./config');
 const { Message, OpType, Location } = require('../curve-thrift/line_types');
 //let exec = require('child_process').exec;
 
-const myBot = ['uc301fa8f0962f52b1f2d83dc251589cb'];
+const myBot = ['u9f478c580a9c4e1de5e407e9b10c2da1'];
 const banList = [];//Banned list
 var vx = {};var midnornama,pesane,kickhim;var waitMsg = "no";//DO NOT CHANGE THIS
 const imgArr = ['png','jpg','jpeg','gif','bmp','webp'];//DO NOT CHANGE THIS
@@ -53,36 +53,37 @@ class LINE extends LineAPI {
         }
 		this.keyhelp = "\n\
 ====================\n\
-# Keyword List\n\n\
-=> !addcontact *ADMIN*\n\
-=> !ban *ADMIN*\n\
-=> !banlist\n\
-=> !botcontact\n\
-=> !botleft *ADMIN*\n\
-=> broadcast *ADMIN*\n\
-=> !cancel\n\
-=> !cekid\n\
-=> getimage\n\
-=> !ginfo\n\
-=> !gURL\n\
-=> !halo\n\
-=> !kepo\n\
-=> !key\n\
-=> !kickban *ADMIN*\n\
-=> !kickall *ADMIN*\n\
-=> !kickme\n\
-=> !msg\n\
-=> !mute *ADMIN*\n\
-=> !myid\n\
-=> !sendcontact\n\
-=> !setting\n\
-=> !speed\n\
-=> !tagall\n\
-=> !unmute *ADMIN*\n\
-=> !unban *ADMIN*\n\
-=> !whattime\n\
-=> !youtube\n\
-\n\n# Gunakan bot dengan bijak ^_^";
+🌹 Keyword List 🌹\n\n\
+🍁 !addcontact *ADMIN*\n\
+🍁 !ban *ADMIN*\n\
+🍁 !banlist\n\
+🍁 !botcontact\n\
+🍁 !botleft *ADMIN*\n\
+🍁 broadcast *ADMIN*\n\
+🍁 !cancel\n\
+🍁 !cekid\n\
+🍁 getimage\n\
+🍁 !ginfo\n\
+🍁 !gURL\n\
+🍁 !halo\n\
+🍁 !kepo\n\
+🍁 !key\n\
+🍁 !kickban *ADMIN*\n\
+🍁 !kickall *ADMIN*\n\
+🍁 !kickme\n\
+🍁 !msg\n\
+🍁 !mute *ADMIN*\n\
+🍁 !myid\n\
+🍁 !sendcontact\n\
+🍁 !setting\n\
+🍁 !speed\n\
+🍁 !tagall\n\
+🍁 !unmute *ADMIN*\n\
+🍁 !unban *ADMIN*\n\
+🍁 !whattime\n\
+🍁 !youtube\n\
+====================\n\
+\n🌺 Gunakan bot dengan bijak 🌺";
         var that = this;
     }
 
