@@ -3,8 +3,8 @@ const LINE = require('./token.js'); // ganti token.js/main.js sesuai nama bot yg
 console.info("\n\
 =========================================\n\
 BotName: LINE Alphat JS\n\
-Version: ALPjs-Evolution By:wN\n\
-Thanks to @Alfathdirk @NadyaTJ @TCR_TEAM @gogglex @etotJS DLL\n\
+Version: ALPjs-Evolution By: @wbp9844b\n\
+Thanks to ALLAH SWT @RAFAMILY @Alfathdirk @NadyaTJ @TCR_TEAM @gogglex @etotJS DLL\n\
 =========================================\n\
 \nNOTE : This bot is made by @Alfathdirk  @TCR_TEAM !");
 
